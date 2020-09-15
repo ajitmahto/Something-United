@@ -1,0 +1,15 @@
+
+
+@font-face {
+    font-family: "'SONY's Logo Regular'";
+    font-style: normal;
+    font-weight: normal;
+    src: local("SONY's Logo Regular"), url('sony.woff') format('woff');
+    }
+
+h1{
+    font-family: "SONY's Logo Regular";
+    color : rgb(255, 255, 255);
+}
+
+    
